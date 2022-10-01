@@ -315,6 +315,7 @@ li {
 
 .menu__mobile__hamburger {
     padding: 10px 0px;
+    display: none;
 }  
 
 .menu__mobile {
@@ -527,5 +528,8 @@ li {
     }
     .footer__nav__item__feature {
         margin-top: 50%;
+    }
+    .menu__mobile__hamburger {
+        display: initial;
     }
 }
